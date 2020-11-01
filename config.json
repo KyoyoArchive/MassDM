@@ -1,0 +1,6 @@
+{
+    "token": "", // Bot token
+    "prefix": "mass!",
+    "id": "", // Owner ID
+    "wait": "10" // Time delay between each message
+}
